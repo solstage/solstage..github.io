@@ -1,1 +1,0 @@
-import{u as s,j as t,N as r,W as a}from"./index-DZHdHt4t.js";function o(){const{publicKey:e}=s();return e?t.jsx(r,{to:e.toString(),replace:!0}):t.jsx("div",{className:"hero py-[64px]",children:t.jsx("div",{className:"hero-content text-center",children:t.jsx(a,{})})})}export{o as default};
